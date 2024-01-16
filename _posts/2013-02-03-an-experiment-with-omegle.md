@@ -1,5 +1,5 @@
 ---
-id: 492
+key: 492
 title: 'An experiment with Omegle'
 date: '2013-02-03T14:51:35+00:00'
 author: Kiran

@@ -1,5 +1,5 @@
 ---
-id: 195
+key: 195
 title: 'Come on&#8230;! Really&#8230;! Btw &#8211; true story :P&#8230;!'
 date: '2012-10-10T05:04:27+00:00'
 author: Kiran

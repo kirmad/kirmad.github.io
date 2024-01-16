@@ -1,5 +1,5 @@
 ---
-id: 171
+key: 171
 title: 'Well, want to know about something&#8230; Just think about it !'
 date: '2009-06-06T09:14:00+00:00'
 author: Kiran

@@ -1,5 +1,5 @@
 ---
-id: 167
+key: 167
 title: 'Removing Viruses/Trojans that cannot be disinfected'
 date: '2009-07-16T05:43:00+00:00'
 author: Kiran

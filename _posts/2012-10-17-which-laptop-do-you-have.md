@@ -1,5 +1,5 @@
 ---
-id: 336
+key: 336
 title: 'Which laptop do YOU have? ;)'
 date: '2012-10-17T15:14:36+00:00'
 author: Kiran

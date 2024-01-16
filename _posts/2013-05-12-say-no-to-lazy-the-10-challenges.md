@@ -1,5 +1,5 @@
 ---
-id: 622
+key: 622
 title: 'Protected: Say no to lazy &#8211; The 10 challenges'
 date: '2013-05-12T05:18:26+00:00'
 author: Kiran

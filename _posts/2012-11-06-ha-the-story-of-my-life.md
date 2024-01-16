@@ -1,5 +1,5 @@
 ---
-id: 471
+key: 471
 title: 'Protected: Ha! The story of my life!'
 date: '2012-11-06T14:59:13+00:00'
 author: Kiran

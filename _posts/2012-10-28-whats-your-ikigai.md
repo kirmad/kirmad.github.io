@@ -1,5 +1,5 @@
 ---
-id: 426
+key: 426
 title: 'What&#8217;s your Ikigai?'
 date: '2012-10-28T05:11:15+00:00'
 author: Kiran

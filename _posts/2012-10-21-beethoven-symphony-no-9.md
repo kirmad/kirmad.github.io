@@ -1,5 +1,5 @@
 ---
-id: 344
+key: 344
 title: 'Beethoven Symphony No. 9'
 date: '2012-10-21T13:40:53+00:00'
 author: Kiran

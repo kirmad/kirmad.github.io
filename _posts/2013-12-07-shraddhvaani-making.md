@@ -1,11 +1,10 @@
 ---
-id: 660
+key: 660
 title: 'Shraddhvaani &#8211; The Making :)'
 date: '2013-12-07T02:29:42+00:00'
 author: Kiran
 guid: 'https://kiran.co/?p=660'
 permalink: /2013/12/shraddhvaani-making/
-key: 660
 image:
     - ''
 quote-author:

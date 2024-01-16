@@ -1,5 +1,5 @@
 ---
-id: 475
+key: 475
 title: 'Protected: Murphy rules!'
 date: '2012-08-25T20:07:40+00:00'
 author: Kiran

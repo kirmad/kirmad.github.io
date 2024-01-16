@@ -1,5 +1,5 @@
 ---
-id: 8
+key: 8
 title: 'Follow your heart'
 date: '2012-10-07T16:28:19+00:00'
 author: Kiran

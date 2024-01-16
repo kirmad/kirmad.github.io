@@ -1,5 +1,5 @@
 ---
-id: 615
+key: 615
 title: 'Life and Chess'
 date: '2013-05-08T08:47:08+00:00'
 author: Kiran

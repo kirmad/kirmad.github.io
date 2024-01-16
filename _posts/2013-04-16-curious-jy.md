@@ -1,5 +1,5 @@
 ---
-id: 575
+key: 575
 title: 'Curious Jo :)&#8230;!'
 date: '2013-04-16T05:46:31+00:00'
 author: Kiran

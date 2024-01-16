@@ -1,5 +1,5 @@
 ---
-id: 470
+key: 470
 title: 'The problem'
 date: '2013-02-09T12:49:57+00:00'
 author: Kiran

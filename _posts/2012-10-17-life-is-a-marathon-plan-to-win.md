@@ -1,5 +1,5 @@
 ---
-id: 326
+key: 326
 title: 'Life is a marathon. Plan to win.'
 date: '2012-10-17T03:41:28+00:00'
 author: Kiran

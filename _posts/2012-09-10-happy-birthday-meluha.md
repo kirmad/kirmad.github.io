@@ -1,5 +1,5 @@
 ---
-id: 42
+key: 42
 title: 'Happy Birthday'
 date: '2012-09-10T00:00:40+00:00'
 author: Kiran
