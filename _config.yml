@@ -118,21 +118,21 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: disqus # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
-  # disqus:
-  #   shortname: kiran-co
+  disqus:
+    shortname: kiran-co
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
-  gitalk:
-    clientID    : 8487f06ce6673b9bf0b6 # GitHub Application Client ID
-    clientSecret: ca6c1e0d879d19c90ea62a34b83fd6b7b056d7fa # GitHub Application Client Secret
-    repository  : kiran-co-comments # GitHub repo
-    owner       : kirmad # GitHub repo owner
-    admin:  # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      - kirmad
+  # gitalk:
+  #   clientID    : 8487f06ce6673b9bf0b6 # GitHub Application Client ID
+  #   clientSecret: ca6c1e0d879d19c90ea62a34b83fd6b7b056d7fa # GitHub Application Client Secret
+  #   repository  : kiran-co-comments # GitHub repo
+  #   owner       : kirmad # GitHub repo owner
+  #   admin:  # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+  #     - kirmad
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
