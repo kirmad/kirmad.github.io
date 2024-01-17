@@ -25,7 +25,10 @@ categories:
     - photo
 ---
 
-<div class="figure">[![logo[1]](/assets/images/2012/09/logo1.png)](/assets/images/2012/09/logo1.png)</div><div class="figure">**Logo:** Nutty Labs</div>**Concept:** Forum for people who are… uhm… pleasantly nuts… 😉
+![logo[1]](/assets/images/2012/09/logo1.png)
+
+**Logo:** Nutty Labs
+**Concept:** Forum for people who are… uhm… pleasantly nuts… 😉
 
 As the logo, I use overlapping acorns (the nut that scrat is always after in Ice Age) – which reminds people of the craziness behind it.
 
