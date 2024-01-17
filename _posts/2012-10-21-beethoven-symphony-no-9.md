@@ -28,6 +28,6 @@ format: link
 
 Listening to Beethoven’s Symphony No. 9 in D minor while working. One of the most beautiful piece of music I have ever heard. The dynamics of the music just blew me away. Just lose your self in the music.
 
-<http://www.youtube.com/watch?v=-3QtlrqKoTc>
+<div>{%- include extensions/youtube.html id='-3QtlrqKoTc' -%}</div>
 
 Enjoy the music :).

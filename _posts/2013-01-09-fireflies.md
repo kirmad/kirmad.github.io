@@ -27,6 +27,6 @@ categories:
 
 This is one of the songs I love so much that it deserves a mention on my blog :)…!
 
-<http://www.youtube.com/watch?v=psuRGfAaju4>
+<div>{%- include extensions/youtube.html id='psuRGfAaju4' -%}</div>
 
 Love the Lyrics – love the imagination…
